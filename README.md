@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://tanjum-portfolio.netlify.app/](https://tanjum-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://tanjum-portfolio.netlify.app/">PortFolio</a> 
 
 - 💬 Ask me about **Web Development**
 
