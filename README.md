@@ -6,7 +6,7 @@
 
 <h1 align="left">💫 About Me:</h1> 
 
-- 🌱 I’m currently learning **Javascript,React,Hubspot**
+- 🌱 I’m currently working and  learning **Javascript,React,Hubspot**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
